@@ -7,8 +7,8 @@
     <parameter name="deviceType" value="Emulator"/>
     <parameter name="deviceName" value="Nexus4"/>
     <parameter name="version" value="5.0.1"/>
-    <parameter name="moduleName" value="NewYorkPost"/>
-    <parameter name="appName" value="nyp.apk"/>
+    <!--<parameter name="moduleName" value="NewYorkPost"/>-->
+    <!--<parameter name="appName" value="nyp.apk"/>-->
 
     <test name="Test Main Menu" preserve-order="true">
         <classes>
